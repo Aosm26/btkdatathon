@@ -1,0 +1,16 @@
+# Large data files
+*.zip
+train.csv
+test_x.csv
+datathon-2026/
+
+# ML outputs & checkpoints
+catboost_info/
+__pycache__/
+*.pyc
+
+# Local IDE/Environment configs
+.conda/
+.venv/
+.idea/
+.vscode/
