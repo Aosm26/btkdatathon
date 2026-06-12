@@ -6,6 +6,7 @@ datathon-2026/
 
 # ML outputs & checkpoints
 catboost_info/
+AutogluonModels/
 __pycache__/
 *.pyc
 
